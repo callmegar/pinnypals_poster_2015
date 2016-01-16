@@ -3441,6 +3441,11 @@ Polygon}</string>
 					<key>Draws</key>
 					<string>NO</string>
 				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 		<dict>
@@ -27357,7 +27362,7 @@ Polygon}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-01-16 20:24:03 +0000</string>
+	<string>2016-01-16 20:29:58 +0000</string>
 	<key>Modifier</key>
 	<string>German Rodriguez</string>
 	<key>NotesVisible</key>
