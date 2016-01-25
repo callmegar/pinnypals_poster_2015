@@ -175,20 +175,6 @@
 			<string>YES</string>
 			<key>Flow</key>
 			<string>Resize</string>
-			<key>FontInfo</key>
-			<dict>
-				<key>Color</key>
-				<dict>
-					<key>b</key>
-					<string>1</string>
-					<key>g</key>
-					<string>1</string>
-					<key>r</key>
-					<string>1</string>
-				</dict>
-				<key>Font</key>
-				<string>FuturaStdMedium</string>
-			</dict>
 			<key>ID</key>
 			<integer>414</integer>
 			<key>Layer</key>
@@ -214,7 +200,7 @@
 			<key>Text</key>
 			<dict>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf130
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
 {\fonttbl\f0\fnil\fcharset0 FuturaStdMedium;}
 {\colortbl;\red255\green255\blue255;\red224\green208\blue9;}
 \deftab720
@@ -3112,13 +3098,11 @@ Polygon}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<real>0.42745098040000001</real>
+						<real>0.27079500000000001</real>
 						<key>g</key>
-						<real>0.19215686269999999</real>
+						<real>0.203764</real>
 						<key>r</key>
-						<real>0.40000000000000002</real>
-						<key>space</key>
-						<string>srgb</string>
+						<real>0.388241</real>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -3149,13 +3133,11 @@ Polygon}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<real>0.21568599999999999</real>
+						<real>0.42722399999999999</real>
 						<key>g</key>
-						<real>0.18823500000000001</real>
+						<real>0.077292299999999994</real>
 						<key>r</key>
-						<real>0.57254899999999997</real>
-						<key>space</key>
-						<string>srgb</string>
+						<real>0.187865</real>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -3186,13 +3168,11 @@ Polygon}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<real>0.21568599999999999</real>
+						<real>0.18846099999999999</real>
 						<key>g</key>
-						<real>0.18823500000000001</real>
+						<real>0.27295199999999997</real>
 						<key>r</key>
-						<real>0.57254899999999997</real>
-						<key>space</key>
-						<string>srgb</string>
+						<real>0.44214700000000001</real>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -3223,13 +3203,11 @@ Polygon}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<real>0.21568599999999999</real>
+						<real>0.133212</real>
 						<key>g</key>
-						<real>0.18823500000000001</real>
+						<real>0.26565800000000001</real>
 						<key>r</key>
-						<real>0.57254899999999997</real>
-						<key>space</key>
-						<string>srgb</string>
+						<real>0.34663500000000003</real>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -6820,13 +6798,11 @@ Polygon}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<real>0.61176470589999998</real>
+						<real>0.36470599999999997</real>
 						<key>g</key>
-						<real>0.2784313725</real>
+						<real>0.27450999999999998</real>
 						<key>r</key>
-						<real>0.57647058819999997</real>
-						<key>space</key>
-						<string>srgb</string>
+						<real>0.52941199999999999</real>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -6857,13 +6833,11 @@ Polygon}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<real>0.30980400000000002</real>
+						<real>0.768868</real>
 						<key>g</key>
-						<real>0.27450999999999998</real>
+						<real>0.14022299999999999</real>
 						<key>r</key>
-						<real>0.819608</real>
-						<key>space</key>
-						<string>srgb</string>
+						<real>0.34054699999999999</real>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -6894,13 +6868,11 @@ Polygon}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<real>0.30980400000000002</real>
+						<real>0.31956099999999998</real>
 						<key>g</key>
-						<real>0.27450999999999998</real>
+						<real>0.47136800000000001</real>
 						<key>r</key>
-						<real>0.819608</real>
-						<key>space</key>
-						<string>srgb</string>
+						<real>0.768868</real>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -6931,13 +6903,11 @@ Polygon}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<real>0.30980400000000002</real>
+						<real>0.21110499999999999</real>
 						<key>g</key>
-						<real>0.27450999999999998</real>
+						<real>0.421211</real>
 						<key>r</key>
-						<real>0.819608</real>
-						<key>space</key>
-						<string>srgb</string>
+						<real>0.55224399999999996</real>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -27368,7 +27338,7 @@ Polygon}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-01-17 04:00:57 +0000</string>
+	<string>2016-01-25 16:05:39 +0000</string>
 	<key>Modifier</key>
 	<string>German Rodriguez</string>
 	<key>NotesVisible</key>
@@ -27445,10 +27415,8 @@ Polygon}</string>
 		<array>
 			<string>Canvas 1</string>
 		</array>
-		<key>FitInWindow</key>
-		<true/>
 		<key>Frame</key>
-		<string>{{54, 48}, {1612, 979}}</string>
+		<string>{{303, 30}, {1129, 979}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>ShowRuler</key>
@@ -27460,15 +27428,15 @@ Polygon}</string>
 		<key>TopSlabHeight</key>
 		<real>401</real>
 		<key>VisibleRegion</key>
-		<string>{{-842.00000000000011, 0}, {3409.3812949640287, 2592}}</string>
+		<string>{{0, 0}, {698.86364015050185, 947.72727786263158}}</string>
 		<key>Zoom</key>
-		<real>0.32175925925925924</real>
+		<real>0.87999999523162842</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>0.0</real>
-				<real>1</real>
+				<real>0.87999999523162842</real>
+				<real>0.64351851851851849</real>
 			</array>
 		</array>
 	</dict>
